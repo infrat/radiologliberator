@@ -860,6 +860,8 @@ _enumerations = {
 				 'JT6M': 'JT6M',
 				 'JT9': 'JT9-1, JT9-2, JT9-5, JT9-10, JT9-30',
 				 'JT44': 'JT44',
+				 'FT8': 'FT8',
+				 'FT4': 'FT4',
 				 'JT65': 'JT65A, JT65B, JT65B2, JT65C, JT65C2',
 				 'MFSK': 'MFSK4, MFSK8, MFSK11, MFSK16, MFSK22, MFSK31, MFSK32, MFSK64, MFSK128',
 				 'MT63': 'MT63',
